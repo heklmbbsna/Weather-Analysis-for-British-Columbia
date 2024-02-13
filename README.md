@@ -53,7 +53,7 @@ In response to the growing need for comprehensive weather analysis in British Co
 
 ## Demo
 
-* http://52.26.1.108:8050/
+* ~~http://52.26.1.108:8050/~~ (expired)
 
 ## Tools/Technologies
 
